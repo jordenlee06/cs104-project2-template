@@ -4,7 +4,7 @@ rps.py
 Redistributed and modified with permission from the
 EECS Department at The University of Michigan, Ann Arbor
 
-Name: TO FILL IN (your name)
+Name: Jorden Lee
 
 CS 104: Project 2
 FALL 2026
